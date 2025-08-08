@@ -1,5 +1,5 @@
 # Comprehensive Prompt Evaluation
-This repository contains the source code and experimental notebooks for our paper on `Revisiting Prompt Engineering: A Comprehensive Evaluation for LLM-based Personalized Recommendation` which has been accepted by ACM RecSys 2025.
+This repository contains the source code and experimental notebooks for our paper on `Revisiting Prompt Engineering: A Comprehensive Evaluation for LLM-based Personalized Recommendation` which has been accepted by ACM RecSys 2025. https://arxiv.org/abs/2507.13525
 
 We evaluate the performance on recommendation tasks using a total of 23 prompts, 12 LLMs, and 8 datasets. The LLMs include cost-efficient models, high-performance models, and reasoning models.
 
